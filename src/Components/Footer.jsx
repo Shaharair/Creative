@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="lg:w-[35%] w-[48%]">
                         <img src={LogoEE} alt="logo" />
                         <p className="font-Inter font-medium lg:text-[16px] text-[14px] text-[#181818] mt-[20px] lg:pr-[100px]">There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
-                        <div className="flex items-center gap-4 lg:mt-[30px] mt-[20px]">
+                        <div className="flex items-center gap-6 lg:mt-[30px] mt-[20px]">
                             <div className="text-[18px] text-[#33CCFF] border-2 border-[white] w-[60px] h-[60px] rounded-full leading-[60px] pt-[20px] pl-[20px] hover:bg-white hover:text-black duration-500 ease-in-out">
                                 <FaFacebookF />
                             </div>
@@ -39,13 +39,13 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className="lg:w-[20%] w-[48%] mt-[20px] lg:mt-0">
-                            <ul>
-                                <li className="font-Inter font-semibold lg:text-[24px] text-[18px] text-[#181818]">Support</li>
-                                <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Help Desk</li>
-                                <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Sales</li>
-                                <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Become a Partner</li>
-                                <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Developers</li>
-                            </ul>
+                        <ul>
+                            <li className="font-Inter font-semibold lg:text-[24px] text-[18px] text-[#181818]">Support</li>
+                            <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Help Desk</li>
+                            <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Sales</li>
+                            <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Become a Partner</li>
+                            <li className="font-Inter font-semibold lg:text-[18px] text-[14px] text-[#181818] pt-2">Developers</li>
+                        </ul>
                     </div>
                     <div className="lg:w-[15%] w-[48%] mt-[20px] lg:mt-0">
                         <ul>
